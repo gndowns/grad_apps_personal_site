@@ -1,1 +1,1 @@
-echo # Github Pages Personal Site
+# Github Pages Personal Site
