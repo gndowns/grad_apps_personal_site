@@ -17,6 +17,8 @@ My Current research interests include machine learning namely used for computer 
 
 3. **[Differential Drive Robot](https://github.com/gndowns/miniprojects)**: An arduino-based differential drive robot built for McGill Robotics.
 
+## [Fun Links](./links.html)
+
 # Contact
 
 **Email**: gndowns (at) gmail (dot) com \\
