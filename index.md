@@ -22,5 +22,5 @@ My Current research interests include machine learning namely used for computer 
 # Contact
 
 **Email**: gndowns (at) gmail (dot) com \\
-**Office**: McConnell Engineering Building, Room 404, McGill University \\
+**Office**: McConnell Engineering Building, Room 408, McGill University \\
 **Github Profile**: [github.com/gndowns](https://github.com/gndowns) 
