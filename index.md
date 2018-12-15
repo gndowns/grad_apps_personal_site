@@ -11,7 +11,7 @@ My Current research interests include machine learning namely used for computer 
 
 # Recent Projects
 
-1. **[Scene Symmetry for CNNs](https://arxiv.org/abs/1811.10524)**: Humans use geometric cues such as symmetry to group visual elements into objects for recognition. I'm currently working with [Morteza Rezanejad](http://www.cim.mcgill.ca/~morteza/) to determine if CNNs have the same bias for symmetry and geometry in general. Check out our latest [paper](https://arxiv.org/abs/1811.10524) on arXiv!
+1. **[Scene Symmetry for CNNs](https://arxiv.org/abs/1811.10524)**: Humans use geometric cues such as symmetry to group visual elements into objects for recognition. I'm currently working with [Morteza Rezanejad](http://www.cim.mcgill.ca/~morteza/) to determine if CNNs have the same bias for symmetry and geometry in general. Check out our latest [paper](https://arxiv.org/abs/1811.10524) on arXiv or some of our [code](https://github.com/mrezanejad/AOFSkeletons)!
 
 2. **[Souvenir, a Virtual Memory Palace](http://souvenir-to-remember.herokuapp.com/)**: The memory palace is a common mnemonic device that takes advantage of your spatial memory, allowing you to complete seemingly superhuman memory tasks. This tool uses Google Maps Streetview to help beginners and memory champions alike visualize the process. Try the [demo](http://souvenir-to-remember.herokuapp.com/) or check out the [code](https://github.com/gndowns/souvenir)! This project won 1st place at YHack 2016.
 
