@@ -30,6 +30,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 logo: images/headshot_small.jpg
 
@@ -44,3 +45,9 @@ logo: images/headshot_small.jpg
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Configure jekyll-analytics plugin for Google Analytics
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-131764657-1
